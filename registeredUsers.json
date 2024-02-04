@@ -1,0 +1,28 @@
+[
+  {
+    "username": "giorgi",
+    "password": "gochitidze",
+    "userType": "Worker",
+    "workingTime": 5
+  },
+  {
+    "username": "gigi",
+    "password": "gigi",
+    "userType": "Worker"
+  },
+  {
+    "username": "giga",
+    "password": "giga",
+    "userType": "Worker"
+  },
+  {
+    "username": "zura",
+    "password": "zurika",
+    "userType": "Worker"
+  },
+  {
+    "username": "tornike",
+    "password": "toko",
+    "userType": "Manager"
+  }
+]
